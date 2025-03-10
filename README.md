@@ -3,4 +3,4 @@ College Laboratory Activities. Subject code: COSC110
 
 ## Table of Contents
 
-- [Computational Thinking with the Titanic Dataset](/Activity_1.ipynb) - Activity 1
+- [Computational Thinking with the Titanic Dataset](/lab1_titanic_villareal.ipynb) - Activity 1

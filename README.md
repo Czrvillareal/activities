@@ -16,5 +16,5 @@ College Laboratory Activities. Subject code: COSC110
   - We explore, the simplest requirements needed for SymPy to work and its basic usage.
     
 - [Exploring Calculus using SymPy](lab4_sympy_villareal.ipynb) - Activity 4
- - This time, we use SymPy for advanced mathematics, Calculus.
- - Using SymPy, we solve for: Limits, Derivatives, Algebraic Functions, and Series Expansion (Taylor & Maclaurin)
+  - This time, we use SymPy for advanced mathematics, Calculus.
+  - Using SymPy, we solve for: Limits, Derivatives, Algebraic Functions, and Series Expansion (Taylor & Maclaurin)

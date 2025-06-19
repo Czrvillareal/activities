@@ -20,7 +20,7 @@ The result is 1. This means that as x approaches 0, the limit of the expression 
 The output is 2x. This is the derivative of x<sup>2</sup> with respect to x, illustrating SymPy's ability to perform symbolic differentiation.
 
 ### Question 5: What do you see from exp(x).series(x, 0, 4) and how many terms are shown?
-The output shows the first few terms of the Taylor series expansion for e<sup>x<sup/> around x=0.
+The output shows the first few terms of the Taylor series expansion for e<sup>x</sup> around x=0.
 
 ### Question 6: What are the answers from solve(Eq(x**2 - 4, 0), x)?
 The answers are -2, 2.
